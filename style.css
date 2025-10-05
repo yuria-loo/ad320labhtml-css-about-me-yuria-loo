@@ -1,1 +1,62 @@
 /*Styling for Yuria's Bio*/
+
+body {
+    font-family: Georgia, Times, 'Times New Roman', serif;
+    line-height: 1.6;
+    margin: 0;
+    color: rgb(74, 71, 71);
+    background-color: #f4f4f4;
+}
+
+header {
+    background-color: rgb(196, 224, 217);
+    text-align: center;
+    padding: 20px;
+}
+
+#yuria-prof {
+    width: 250px;
+    border-radius: 30%;
+    margin: 10px;
+}
+
+header h1 {
+    font-size: 30px;
+}
+
+.sub-title {
+    font-size: 18px;
+}
+
+section {
+    background-color: rgb(212, 230, 217);
+    padding: 20px;
+    margin: 20px;
+    border-radius: 8px;
+}
+
+#bio {
+    padding: 20px;
+    line-height: 1.6;
+    font-size: 18px;
+}
+#bio h2 {
+    margin-bottom: 10px;
+}
+
+#hobbies {
+    padding: 20px;
+}
+
+#hobbies ul{
+    list-style: none;
+    padding: 0;
+}
+
+#hobbies li{
+    background-color: aliceblue;
+    padding: 5px;
+    margin: 5px;
+    display: inline-block;
+    border-radius: 4px;
+}
